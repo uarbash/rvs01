@@ -13,4 +13,5 @@ Bei der Eingabe der Nachricht muss darauf geachtet werden :
 Die kleinere Pakete dürfen nicht längere als die Länge Parameter, das am ersten eingegeben ist.
 Jedes Wort wird in einem Paket ergänzen ( ein Leerzeichen ist das Signal das es schon ein neues Wort eingegebn ) 
 Bei Zeichnen wie ( - ) kann die Unterteilung unterschiedlich sein, je nach die Größe des frühere Wort und das kommende Wort.
-
+Bei Eingabe der Nachricht kann enter gedrückt um eine neue Line zu übernehmen, und um die Nachricht zu senden muss <CR><LF> geschrieben und dann enter dann 
+  wird keine neue Line übernehmen, und falls keine Fehler in der Informationen ist, dann ist die Nachricht gesendet
